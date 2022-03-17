@@ -102,12 +102,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>webapp release nexus repository</name>
-	      <url>http://52.77.244.211:8081/repository/maven-releases/url>
+	      <url>http://52.77.244.211:8081/repository/webapp-release/url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>webapp Snapshot Nexus Repository </name>
-	      <url>http://52.77.244.211:8081/repository/maven-snapshots/</url>
+	      <url>http://52.77.244.211:8081/repository/webapp-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement> 
 	
