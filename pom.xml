@@ -101,13 +101,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Devops desk Releases Nexus Repository</name>
-	      <url>http://13.233.102.6:8081/repository/devopsdesk-release/</url>
+	      <name>webapp release nexus repository</name>
+	      <url>http://13.229.229.163:8081/repository/webapp-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Devops desk Snapshot Nexus Repository </name>
-	      <url>http://13.233.102.6:8081/repository/devopsdesk-snapshot/</url>
+	      <name>webapp Snapshot Nexus Repository </name>
+	      <url>http://13.229.229.163:8081/repository/webapp-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement> 
 	
