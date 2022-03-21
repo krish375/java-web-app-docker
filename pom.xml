@@ -102,12 +102,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>webapp release nexus repository</name>
-	      <url>http://18.139.209.7:8081/repository/webapp-release/</url>
+	      <url>http://13.229.67.199:8081/repository/java-webapp-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>webapp Snapshot Nexus Repository </name>
-	      <url>http://18.139.209.7:8081/repository/webapp-snapshot/</url>
+	      <url>http://13.229.67.199:8081/repository/java-webapp-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement> 
 	
