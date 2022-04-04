@@ -97,6 +97,20 @@
 		</dependency>
 
 	</dependencies>
+	<profiles>
+              <profile>
+                 <id>sonar</id>
+                  <activation>
+                  <activeByDefault>true</activeByDefault>
+                  </activation>
+                  <properties>
+                   <!-- Optional URL to server. Default value is http://localhost:9000 -->
+                   <sonar.host.url>
+                     http://18.140.130.31:9000
+                   </sonar.host.url>
+                   </properties>
+                </profile>
+         </profiles>
 	
 	<distributionManagement>
 	    <repository>
